@@ -9,8 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 # What Information We Collect
 ```
 •	Contact information, such as: your name, email address; 
-•	Automatically collected information, we want to inform you that whenever you use our Service, in a case of an error in the app we
-collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+•	Automatically collected information, we want to inform you that whenever you use our Service, in a case of an error in the app we       collect data and information (through third party products) on your phone called Log Data. This Log Data may include information         such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when           utilizing our Service, the time and date of your use of the Service, and other statistics.
 ```
 We also use Google Firebase and Firebase Analytics which might personalize the users experience by using additional data and track some basic statistics about the Application respectively. If the user decides, they can also upload more questions to the applications “collection” screen.  
 ```
