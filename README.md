@@ -16,8 +16,8 @@ We also use Google Firebase and Firebase Analytics which might personalize the u
 Link to privacy policy of third-party service providers used by the app
 ```
 ```
-•	Firebase Analytics
-•	Google Firebase 
+•	[Firebase Analytics](https://policies.google.com/technologies/partner-sites)
+•	[Google Firebase](https://policies.google.com/technologies/partner-sites)
 ```
 
 # How We Collect Information 
